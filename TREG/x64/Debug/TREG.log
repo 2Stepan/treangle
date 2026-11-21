@@ -1,0 +1,3 @@
+﻿  TREG.cpp
+D:\C++\TREG\TREG\TREG.cpp(65,10): warning C4101: is_write: неиспользованная локальная переменная
+  TREG.vcxproj -> D:\C++\TREG\x64\Debug\TREG.exe

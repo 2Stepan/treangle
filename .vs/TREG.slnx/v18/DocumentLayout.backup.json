@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\TREG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A804CF8-8281-459F-AEE7-DF6302CC73E1}|TREG\\TREG.vcxproj|D:\\C\u002B\u002B\\TREG\\TREG\\TREG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A804CF8-8281-459F-AEE7-DF6302CC73E1}|TREG\\TREG.vcxproj|solutionrelative:TREG\\TREG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TREG.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\TREG\\TREG\\TREG.cpp",
+              "RelativeDocumentMoniker": "TREG\\TREG.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\TREG\\TREG\\TREG.cpp",
+              "RelativeToolTip": "TREG\\TREG.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-21T05:28:32.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

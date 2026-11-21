@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TREG/TREG.vcxproj" Id="8a804cf8-8281-459f-aee7-df6302cc73e1" />
+</Solution>
